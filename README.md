@@ -23,12 +23,6 @@
 
 ---
 
-<!-- Visual / GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="AI training animation" width="420"/>
-</p>
-
----
 
 ##  Introduction
 
