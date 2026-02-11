@@ -38,7 +38,7 @@ I use professional annotation tools and produce outputs suitable for **model tra
 
 ---
 
-##  Selected Annotation Projects
+##  Selected Annotation Projects  *in repository*
 
 ### 🔹 Sentiment Analysis Annotation
 - Single-label sentiment classification (Positive / Neutral / Negative)
