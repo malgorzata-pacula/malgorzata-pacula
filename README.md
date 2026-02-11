@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/malgorzata-pacula/assets/main/ai-annotation-header.png" alt="AI Data Annotation & Training" />
+  <img src="https://raw.githubusercontent.com/malgorzata-pacula/malgorzata-pacula/main/header.png" alt="AI Data Annotation & Training" />
 </p>
 
 <h3 align="center">
@@ -83,5 +83,5 @@ I use professional annotation tools and produce outputs suitable for **model tra
 
 <!-- Footer banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/assets/main/ai-annotation-footer.png" alt="Human-in-the-loop AI" />
+  <img src="https://raw.githubusercontent.com/malgorzata-pacula/malgorzata-pacula/main/footer.png" alt="human in the loop AI" />
 </p>
